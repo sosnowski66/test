@@ -11,7 +11,11 @@ abstract public class Asd {
     }
 
     public void setAsd(String asd) {
-        this.asd = asd;
+        this.asd = asd;  
+
+
+
+        
     }
 }
 
