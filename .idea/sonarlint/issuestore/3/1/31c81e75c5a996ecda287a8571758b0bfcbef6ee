@@ -1,0 +1,17 @@
+
+˜
+java:S1130	"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ëµû÷şÿÿÿÿ8•²ïÒó.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ó…‡ƒûÿÿÿÿ8…ºÒó.
+E
+java:S1481"(Remove this unused "asd" local variable.(‡ÛƒÇ8¹ÏÈÒó.
+4
+java:S1700"Rename field "asd"(¼ŠÉšøÿÿÿÿ8·¨—™î.
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÌË·8çÚÆÒó.
+k
+java:S1128"IRemove this unused import 'com.taskadapter.redmineapi.NotFoundException'.(¤Òƒ¥øÿÿÿÿ8•ñíÒó.
+T
+java:S1854"7Remove this useless assignment to local variable "asd".(‡ÛƒÇ8¹ÏÈÒó.
+0
+java:S1220""Move this file to a named package.
+]	java:S125"<This block of commented-out lines of code should be removed.(şÀŸÿÿÿÿÿ8­½ğÒó.

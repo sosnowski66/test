@@ -1,0 +1,30 @@
+
+e
+java:S1128"HRemove this unused import 'com.taskadapter.redmineapi.RedmineException'.(–¹ÔÙ8İØÌŠå.
+G
+java:S16594"%Declare "surname" on a separate line.(Åõìÿøÿÿÿÿ8ì–¸Øï.
+L
+java:S1144("0Remove this unused private "decodeValue" method.(£ÄÓ
+8Á’ÿ‘î.
+l
+java:S1128"JRemove this unused import 'org.apache.http.impl.client.HttpClientBuilder'.(İØÒıÿÿÿÿ8‡ò¶Šå.
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8‡ò¶Šå.
+R
+java:S1144$"0Remove this unused private "encodeValue" method.(ª¶‚©ÿÿÿÿÿ8Á’ÿ‘î.
+T
+java:S1128"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­8‡ò¶Šå.
+[
+java:S1128">Remove this unused import 'org.apache.http.client.HttpClient'.(¨­—8‡ò¶Šå.
+Ÿ
+java:S1130-"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(Ô‰‚õùÿÿÿÿ8Âœ™î.
+]	java:S125Z"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ì–¸Øï.
+X	java:S125g"<This block of commented-out lines of code should be removed.(¡Ü¡¯8‡ò¶Šå.
+X	java:S125>"<This block of commented-out lines of code should be removed.(ä§°Ï8Á’ÿ‘î.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(½í¾¾ùÿÿÿÿ8ì–¸Øï.
+D
+java:S16594""Declare "name" on a separate line.(Åõìÿøÿÿÿÿ8ì–¸Øï.
+Y
+java:S1128"7Remove this unused import 'javax.jws.soap.SOAPBinding'.(î¶âÑûÿÿÿÿ8‡ò¶Šå.
+7
+java:S1220""Move this file to a named package.8‡ò¶Šå.
